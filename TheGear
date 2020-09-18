@@ -1,5 +1,11 @@
 <? 
 $smart_heterodoxous_plugin = true:
 $ultra_imponent_versioning_of_legend = true;
-$hermetic_bandwith = false: 
+$hermetic_bandwidth = false: 
+foreach ($i in $smart_heterodoxous_plugin){
+if ($ultra_imponent_versioning_of_legend != false){
+echo ("I know this much is true.")
+}else{
+echo("Island of love.")}
+}
 ?>
